@@ -1,3 +1,4 @@
+https://hitscounter.dev/api/hit?url=https%3A%2F%2Faezakmi9432.github.io%2F&label=Music2arduino+&icon=github&color=%23198754&message=&style=flat&tz=Europe%2FMoscow
 RU:
 
 MUSIC2ARDUINO — конвертер музыки в скетч для зуммера
